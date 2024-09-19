@@ -1,0 +1,29 @@
+<article class="post-card">
+      <div class="post-thumbnail">
+        <img
+          src="vtvcab-v/Rectangle 1021.png"
+          alt=""
+          style="width: 392px; height: 408px"
+        />
+      </div>
+      <div class="icon-fa">
+        <img src="vtvcab-v/receipt-edit.png" alt="" />
+      </div>
+      <h3>Thông tin thuê bao</h3>
+      <p>Lorem ipsum dolor sit amet.</p>
+      <div class="icon-fa">
+        <img src="vtvcab-v/empty-wallet (1).png" alt="" />
+      </div>
+      <h3>Thanh toán cước</h3>
+      <p>Lorem ipsum dolor sit amet.</p>
+      <div class="icon-fa">
+        <img src="vtvcab-v/receipt-2.png" alt="" />
+      </div>
+      <h3>Hóa đơn điện tử</h3>
+      <p>Lorem ipsum dolor sit amet.</p>
+      <div class="icon-fa">
+        <img src="vtvcab-v/receipt-item.png" alt="" />
+      </div>
+      <h3>Hóa đơn điện tử</h3>
+      <p>Lorem ipsum dolor sit amet.</p>
+    </article>

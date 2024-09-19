@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: blanchedalmond;
+  background-image: url(https://vecgroup.vn/images/products/2021/08/24/large/qua-cau-long_1629778779.jpg);
+}
+h1 {
+  color: brown;
+
+  text-align: center;
+  border-radius: 15%;
+  font-size: 40px;
+}
+.post-date {
+  color: blue;
+
+  text-shadow: 10px 10px 10px red;
+}
+.luu-y {
+  border-style: dashed;
+  background-color: beige;
+}
+h3 {
+  color: blueviolet;
+  font-size: 20px;
+}
+li{
+    font-size: 20px;
+    border-style:groove ;
+}
